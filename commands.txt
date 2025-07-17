@@ -1,0 +1,9 @@
+
+command for checking git version
+    >git version
+
+command for listing config detail
+    >git config --list
+
+command for adding user email
+    
