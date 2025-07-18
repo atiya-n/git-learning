@@ -38,3 +38,12 @@ command to push the remote repo
 
 command to get the name of the name_branch
     >git branch
+
+command to check how many commits
+    >git log
+
+command to change the name of remote repo in saved in terminal
+    >git remote rename old_name new_name
+
+file to not track some files or folders
+    > .gitignore
