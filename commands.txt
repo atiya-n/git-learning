@@ -35,3 +35,6 @@ command for adding the remote repo
 
 command to push the remote repo
     >git push name name_branch
+
+command to get the name of the name_branch
+    >git branch
